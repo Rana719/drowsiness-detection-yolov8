@@ -1,6 +1,6 @@
 # 🛑 Drowsiness Detection Using YOLOv8
 
-This project uses **YOLOv8** and **Computer Vision** to detect signs of driver drowsiness and inattention in real-time video streams. It classifies 9 distinct states such as "eyes closed", "head down", "yawning", and more using a custom-trained deep learning model.
+This project uses **YOLOv8** and **Computer Vision** to detect signs of driver drowsiness and inattention in real-time video streams.It classifies 9 distinct states such as basic (“focusing”, “eyes closed”), additional ('eyes closed head left', 'eyes closed head right'و 'head down', 'head up', 'seeing left', 'seeing right', 'yarning'),using a specially trained deep learning model.
 
 ---
 
